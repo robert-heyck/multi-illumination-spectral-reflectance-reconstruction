@@ -1,0 +1,21 @@
+# The four wing spots of each butterfly whose reflectance is plotted in Figures 5a and S4.
+# y1, y2, x1, x2: 10 x 10 pixel region (rows y1:y2, columns x1:x2) in the cropped image, i.e. in the
+# coordinates of the reconstruction. The spectrometer and hyperspectral spot spectra
+# (spectrometer_spot_reflectance_*.csv, hyperspectral_spot_reflectance_*.csv) are of the same spots.
+butterfly,spot,y1,y2,x1,x2
+1,orange,95,105,465,475
+1,black,140,150,410,420
+1,yellow,222,232,355,365
+1,gray,192,202,415,425
+2,orange,108,118,425,435
+2,black,157,167,380,390
+2,yellow,234,244,333,343
+2,gray,195,205,390,400
+3,orange,163,173,370,380
+3,black,174,184,480,490
+3,yellow,130,140,408,418
+3,gray,217,227,465,475
+4,orange,144,154,423,433
+4,black,57,67,617,627
+4,yellow,108,118,590,600
+4,gray,203,213,532,542

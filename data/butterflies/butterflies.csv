@@ -1,0 +1,11 @@
+# Butterfly specimens imaged in the photo box (Figure 5: butterfly 3; Figure S4: all four).
+# Raw frames are in raw/b<butterfly>/: 40 frames, 5 duplicates under each LED in the order
+# R, G, B, W, T, V, UV-1, UV-2 (sorted by file name).
+# crop_y1, crop_y2, crop_x1, crop_x2: the region (rows y1:y2, columns x1:x2) of the processed
+# 1005 x 1509 image (after the 180-degree rotation) that contains the specimen. Only this region
+# is kept and reconstructed.
+butterfly,species,crop_y1,crop_y2,crop_x1,crop_x2
+1,H. erato petiverana,350,680,460,1050
+2,H. melpomene rosina,320,680,500,1050
+3,H. erato amazona,300,700,455,1055
+4,H. melpomene meriana,320,700,415,1115
